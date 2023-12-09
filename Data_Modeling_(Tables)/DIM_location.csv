@@ -1,0 +1,148 @@
+Country ID,Country,Market,Flag
+100,United States,US,Selected
+101,Australia,APAC,Selected
+102,Germany,EU,Selected
+103,Senegal,Africa,Unselected
+104,New Zealand,APAC,Selected
+105,Afghanistan,APAC,Selected
+106,Saudi Arabia,EMEA,Unselected
+107,Brazil,LATAM,Selected
+108,China,APAC,Selected
+109,France,EU,Selected
+110,Italy,EU,Selected
+111,Tanzania,Africa,Unselected
+112,Poland,EMEA,Unselected
+113,United Kingdom,EU,Selected
+114,Mexico,LATAM,Selected
+115,El Salvador,LATAM,Selected
+116,Taiwan,APAC,Selected
+117,India,APAC,Selected
+118,Dominican Republic,LATAM,Selected
+119,Democratic Republic of the Congo,Africa,Unselected
+120,Indonesia,APAC,Selected
+121,Uruguay,LATAM,Selected
+122,Iran,EMEA,Unselected
+123,Mozambique,Africa,Unselected
+124,Bangladesh,APAC,Selected
+125,Spain,EU,Selected
+126,Ukraine,EMEA,Unselected
+127,Nicaragua,LATAM,Selected
+128,Morocco,Africa,Unselected
+129,Canada,Canada,Unselected
+130,Philippines,APAC,Selected
+131,Austria,EMEA,Unselected
+132,Colombia,LATAM,Selected
+133,Netherlands,EU,Selected
+134,Malaysia,APAC,Selected
+135,Ecuador,LATAM,Selected
+136,Thailand,APAC,Selected
+137,Somalia,Africa,Unselected
+138,Guatemala,LATAM,Selected
+139,Belarus,EMEA,Unselected
+140,Cambodia,APAC,Selected
+141,South Africa,Africa,Unselected
+142,Japan,APAC,Selected
+143,Russia,EMEA,Unselected
+144,Egypt,Africa,Unselected
+145,Azerbaijan,EMEA,Unselected
+146,Lithuania,EMEA,Unselected
+147,Argentina,LATAM,Selected
+148,Lesotho,Africa,Unselected
+149,Vietnam,APAC,Selected
+150,Cuba,LATAM,Selected
+151,Romania,EMEA,Unselected
+152,Turkey,EMEA,Unselected
+153,Cameroon,Africa,Unselected
+154,Hungary,EMEA,Unselected
+155,Singapore,APAC,Selected
+156,Angola,Africa,Unselected
+157,Belgium,EU,Selected
+158,Pakistan,APAC,Selected
+159,Finland,EU,Selected
+160,Ghana,Africa,Unselected
+161,Zambia,Africa,Unselected
+162,Iraq,EMEA,Unselected
+163,Liberia,Africa,Unselected
+164,Georgia,EMEA,Unselected
+165,Switzerland,EU,Selected
+166,Albania,EMEA,Unselected
+167,Chad,Africa,Unselected
+168,Montenegro,EMEA,Unselected
+169,Namibia,Africa,Unselected
+170,Portugal,EU,Selected
+171,Madagascar,Africa,Unselected
+172,Sweden,EU,Selected
+173,Myanmar (Burma),APAC,Selected
+174,Jamaica,LATAM,Selected
+175,Qatar,EMEA,Unselected
+176,Republic of the Congo,Africa,Unselected
+177,Norway,EU,Selected
+178,Algeria,Africa,Unselected
+179,South Korea,APAC,Selected
+180,Nigeria,Africa,Unselected
+181,Estonia,EMEA,Unselected
+182,Cote d'Ivoire,Africa,Unselected
+183,Honduras,LATAM,Selected
+184,Paraguay,LATAM,Selected
+185,Czech Republic,EMEA,Unselected
+186,Central African Republic,Africa,Unselected
+187,Benin,Africa,Unselected
+188,Bolivia,LATAM,Selected
+189,Chile,LATAM,Selected
+190,Martinique,LATAM,Selected
+191,Syria,EMEA,Unselected
+192,Lebanon,EMEA,Unselected
+193,Kenya,Africa,Unselected
+194,Mali,Africa,Unselected
+195,Libya,Africa,Unselected
+196,Venezuela,LATAM,Selected
+197,Trinidad and Tobago,LATAM,Selected
+198,Ireland,EU,Selected
+199,Bulgaria,EMEA,Unselected
+200,Panama,LATAM,Selected
+201,Israel,EMEA,Unselected
+202,Haiti,LATAM,Selected
+203,Barbados,LATAM,Selected
+204,Slovenia,EMEA,Unselected
+205,Togo,Africa,Unselected
+206,Mauritania,Africa,Unselected
+207,Guinea,Africa,Unselected
+208,Rwanda,Africa,Unselected
+209,Denmark,EU,Selected
+210,Niger,Africa,Unselected
+211,Papua New Guinea,APAC,Selected
+212,Mongolia,APAC,Selected
+213,Sudan,Africa,Unselected
+214,Peru,LATAM,Selected
+215,Sierra Leone,Africa,Unselected
+216,Bosnia and Herzegovina,EMEA,Unselected
+217,Guinea-Bissau,Africa,Unselected
+218,Djibouti,Africa,Unselected
+219,Tunisia,Africa,Unselected
+220,Croatia,EMEA,Unselected
+221,Hong Kong,APAC,Selected
+222,Nepal,APAC,Selected
+223,Guadeloupe,LATAM,Selected
+224,Kyrgyzstan,EMEA,Unselected
+225,Zimbabwe,Africa,Unselected
+226,Uzbekistan,EMEA,Unselected
+227,South Sudan,Africa,Unselected
+228,Gabon,Africa,Unselected
+229,Bahrain,EMEA,Unselected
+230,Yemen,EMEA,Unselected
+231,Jordan,EMEA,Unselected
+232,United Arab Emirates,EMEA,Unselected
+233,Moldova,EMEA,Unselected
+234,Swaziland,Africa,Unselected
+235,Turkmenistan,EMEA,Unselected
+236,Kazakhstan,EMEA,Unselected
+237,Ethiopia,Africa,Unselected
+238,Uganda,Africa,Unselected
+239,Slovakia,EMEA,Unselected
+240,Sri Lanka,APAC,Selected
+241,Tajikistan,EMEA,Unselected
+242,Burundi,Africa,Unselected
+243,Macedonia,EMEA,Unselected
+244,Eritrea,Africa,Unselected
+245,Equatorial Guinea,Africa,Unselected
+246,Armenia,EMEA,Unselected
